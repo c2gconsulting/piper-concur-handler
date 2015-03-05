@@ -1,0 +1,41 @@
+{
+  "name": "piper-concur-handler",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "https://github.com/c2gconsulting/piper-concur-handler",
+  "description": "Piper handler wrapper for Concur API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c2gconsulting/piper-concur-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/c2gconsulting/piper-concur-handler/issues"
+  },
+  "keywords": [
+    "piper",
+    "automation",
+    "home",
+    "siri",
+    "wit.ai",
+    "nlp",
+    "speech",
+    "intent",
+    "erp",
+    "concur"
+  ],
+  "dependencies": {
+    "request": "2.42.0",
+    "underscore": "1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "1.21.4",
+    "nock": "0.47.0",
+    "chai": "1.9.1"
+  },
+  "main": "./index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Uhunghama Harrison <huhunghama@c2gconsulting.com> (http://c2gconsulting.com/)",
+  "license": "MIT"
+}
